@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://www.ctrlplay.com.br/wp-content/uploads/2019/05/depoimentos-background-2a.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: absolute;
+  text-align: center;
+  background-size: cover;
+}
+
+.primeiraDiv {
+  padding: 100px;
+  padding-left: 50rem;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  color: violet;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+h3 {
+  color: white;
+}
+
+p {
+  color: rgb(0, 255, 221);
+}
